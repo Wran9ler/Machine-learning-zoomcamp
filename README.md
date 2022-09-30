@@ -1,1 +1,1 @@
-# MLops
+# Machine learning zoomcamp
